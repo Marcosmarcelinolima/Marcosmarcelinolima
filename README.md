@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Marcos Marcelino Lima 👋
 
-<!--
-**Marcosmarcelinolima/Marcosmarcelinolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Suporte e Implantação  
+📍 Criciúma - SC
 
-Here are some ideas to get you started:
+## Tecnologias
+- SQL Oracle / PL-SQL
+- React
+- Node.js
+- HTML / CSS / JavaScript
+- Suporte N1/N2
+- Infraestrutura de Rede
+- CRM / ChatBot
+- Windows Server / MSTSC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência
+Atualmente atuando com implantação e suporte de sistemas WEB na Useall Software.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/marcos-marcelino-lima-270816237?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: marcos.lima.marcelino@gmail.com
